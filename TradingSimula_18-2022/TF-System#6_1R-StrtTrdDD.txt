@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of :  TF-System#6_1R : Max. ClsTrd Draw Down     100973
+-----------------------------------------
+Probability of DD <     5048 is 0.008
+Probability of DD <    10097 is 0.037
+Probability of DD <    15147 is 0.041
+Probability of DD <    20197 is 0.231
+Probability of DD <    25249 is 0.240
+Probability of DD <    30302 is 0.244
+Probability of DD <    35355 is 0.264
+Probability of DD <    40410 is 0.851
+Probability of DD <    45466 is 0.860
+Probability of DD <    50522 is 0.868
+Probability of DD <    55580 is 0.872
+Probability of DD <    60639 is 0.880
+Probability of DD <    65699 is 0.950
+Probability of DD <    70759 is 0.955
+Probability of DD <    75821 is 0.963
+Probability of DD <    80884 is 0.967
+Probability of DD <    85947 is 0.975
+Probability of DD <    91012 is 0.983
+Probability of DD <    96078 is 0.996
+Probability of DD <   101144 is 1.000

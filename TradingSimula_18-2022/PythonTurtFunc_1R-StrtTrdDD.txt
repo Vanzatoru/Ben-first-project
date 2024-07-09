@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : PythonTurtFunc_1R : Max. ClsTrd Draw Down     635837
+-----------------------------------------
+Probability of DD <    31791 is 0.020
+Probability of DD <    63583 is 0.026
+Probability of DD <    95376 is 0.029
+Probability of DD <   127170 is 0.060
+Probability of DD <   158965 is 0.073
+Probability of DD <   190761 is 0.445
+Probability of DD <   222558 is 0.557
+Probability of DD <   254355 is 0.564
+Probability of DD <   286154 is 0.857
+Probability of DD <   317954 is 0.860
+Probability of DD <   349755 is 0.867
+Probability of DD <   381557 is 0.867
+Probability of DD <   413360 is 0.867
+Probability of DD <   445164 is 0.869
+Probability of DD <   476969 is 0.869
+Probability of DD <   508774 is 0.879
+Probability of DD <   540581 is 0.882
+Probability of DD <   572389 is 0.888
+Probability of DD <   604198 is 0.889
+Probability of DD <   636008 is 1.000

@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of :       TF-TMA_1R : Max. ClsTrd Draw Down     138612
+-----------------------------------------
+Probability of DD <     6930 is 0.026
+Probability of DD <    13861 is 0.140
+Probability of DD <    20792 is 0.181
+Probability of DD <    27725 is 0.181
+Probability of DD <    34659 is 0.188
+Probability of DD <    41593 is 0.207
+Probability of DD <    48529 is 0.214
+Probability of DD <    55466 is 0.236
+Probability of DD <    62403 is 0.258
+Probability of DD <    69342 is 0.280
+Probability of DD <    76282 is 0.299
+Probability of DD <    83222 is 0.402
+Probability of DD <    90164 is 0.410
+Probability of DD <    97106 is 0.428
+Probability of DD <   104050 is 0.446
+Probability of DD <   110995 is 0.863
+Probability of DD <   117940 is 0.882
+Probability of DD <   124887 is 0.882
+Probability of DD <   131835 is 0.996
+Probability of DD <   138783 is 1.000

@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of :   Donch-Test-1R : Max. ClsTrd Draw Down     138001
+-----------------------------------------
+Probability of DD <     6900 is 0.019
+Probability of DD <    13800 is 0.032
+Probability of DD <    20701 is 0.032
+Probability of DD <    27603 is 0.102
+Probability of DD <    34506 is 0.110
+Probability of DD <    41410 is 0.184
+Probability of DD <    48315 is 0.199
+Probability of DD <    55221 is 0.203
+Probability of DD <    62128 is 0.206
+Probability of DD <    69036 is 0.407
+Probability of DD <    75945 is 0.411
+Probability of DD <    82856 is 0.439
+Probability of DD <    89767 is 0.446
+Probability of DD <    96679 is 0.448
+Probability of DD <   103592 is 0.496
+Probability of DD <   110506 is 0.530
+Probability of DD <   117421 is 0.535
+Probability of DD <   124337 is 0.541
+Probability of DD <   131254 is 0.569
+Probability of DD <   138172 is 1.000

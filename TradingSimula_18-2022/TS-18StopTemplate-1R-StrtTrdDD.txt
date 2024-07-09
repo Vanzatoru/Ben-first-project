@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TS-18StopTemplate-1R : Max. ClsTrd Draw Down     139443
+-----------------------------------------
+Probability of DD <     6972 is 0.030
+Probability of DD <    13944 is 0.070
+Probability of DD <    20917 is 0.113
+Probability of DD <    27891 is 0.201
+Probability of DD <    34866 is 0.348
+Probability of DD <    41843 is 0.378
+Probability of DD <    48820 is 0.381
+Probability of DD <    55798 is 0.393
+Probability of DD <    62777 is 0.399
+Probability of DD <    69757 is 0.405
+Probability of DD <    76739 is 0.409
+Probability of DD <    83721 is 0.427
+Probability of DD <    90704 is 0.436
+Probability of DD <    97688 is 0.448
+Probability of DD <   104673 is 0.473
+Probability of DD <   111660 is 0.524
+Probability of DD <   118647 is 0.540
+Probability of DD <   125635 is 0.549
+Probability of DD <   132624 is 0.564
+Probability of DD <   139614 is 1.000

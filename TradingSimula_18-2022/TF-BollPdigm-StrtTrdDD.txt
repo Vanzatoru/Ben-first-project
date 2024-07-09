@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of :    TF-BollPdigm : Max. ClsTrd Draw Down     203282
+-----------------------------------------
+Probability of DD <    10164 is 0.009
+Probability of DD <    20328 is 0.011
+Probability of DD <    30493 is 0.013
+Probability of DD <    40659 is 0.022
+Probability of DD <    50826 is 0.025
+Probability of DD <    60994 is 0.079
+Probability of DD <    71163 is 0.497
+Probability of DD <    81333 is 0.501
+Probability of DD <    91505 is 0.505
+Probability of DD <   101677 is 0.514
+Probability of DD <   111850 is 0.805
+Probability of DD <   122024 is 0.818
+Probability of DD <   132199 is 0.822
+Probability of DD <   142375 is 0.823
+Probability of DD <   152552 is 0.901
+Probability of DD <   162730 is 0.928
+Probability of DD <   172910 is 0.930
+Probability of DD <   183090 is 0.933
+Probability of DD <   193271 is 0.937
+Probability of DD <   203453 is 1.000

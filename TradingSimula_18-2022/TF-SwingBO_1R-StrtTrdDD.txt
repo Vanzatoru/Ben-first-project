@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of :   TF-SwingBO_1R : Max. ClsTrd Draw Down      18035
+-----------------------------------------
+Probability of DD <      901 is 0.025
+Probability of DD <     1803 is 0.025
+Probability of DD <     2706 is 0.050
+Probability of DD <     3610 is 0.050
+Probability of DD <     4514 is 0.050
+Probability of DD <     5420 is 0.075
+Probability of DD <     6327 is 0.075
+Probability of DD <     7235 is 0.075
+Probability of DD <     8143 is 0.100
+Probability of DD <     9053 is 0.100
+Probability of DD <     9964 is 0.100
+Probability of DD <    10876 is 0.150
+Probability of DD <    11788 is 0.150
+Probability of DD <    12702 is 0.150
+Probability of DD <    13617 is 0.150
+Probability of DD <    14533 is 0.150
+Probability of DD <    15449 is 0.175
+Probability of DD <    16367 is 0.175
+Probability of DD <    17286 is 0.175
+Probability of DD <    18206 is 1.000

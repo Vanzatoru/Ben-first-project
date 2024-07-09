@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TF-Boll-RiskFilt_1R : Max. ClsTrd Draw Down      10650
+-----------------------------------------
+Probability of DD <      532 is 0.050
+Probability of DD <     1065 is 0.050
+Probability of DD <     1598 is 0.050
+Probability of DD <     2133 is 0.050
+Probability of DD <     2668 is 0.050
+Probability of DD <     3205 is 0.300
+Probability of DD <     3742 is 0.350
+Probability of DD <     4281 is 0.350
+Probability of DD <     4820 is 0.350
+Probability of DD <     5361 is 0.400
+Probability of DD <     5902 is 0.400
+Probability of DD <     6445 is 0.400
+Probability of DD <     6988 is 0.500
+Probability of DD <     7533 is 0.500
+Probability of DD <     8078 is 0.500
+Probability of DD <     8625 is 0.500
+Probability of DD <     9172 is 0.800
+Probability of DD <     9721 is 0.950
+Probability of DD <    10270 is 0.950
+Probability of DD <    10821 is 1.000

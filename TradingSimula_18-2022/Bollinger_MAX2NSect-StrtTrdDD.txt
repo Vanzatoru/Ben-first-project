@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : Bollinger_MAX2NSect : Max. ClsTrd Draw Down      25700
+-----------------------------------------
+Probability of DD <     1285 is 0.027
+Probability of DD <     2570 is 0.297
+Probability of DD <     3856 is 0.432
+Probability of DD <     5143 is 0.459
+Probability of DD <     6431 is 0.486
+Probability of DD <     7720 is 0.486
+Probability of DD <     9010 is 0.514
+Probability of DD <    10301 is 0.514
+Probability of DD <    11593 is 0.541
+Probability of DD <    12886 is 0.568
+Probability of DD <    14180 is 0.757
+Probability of DD <    15475 is 0.811
+Probability of DD <    16771 is 0.811
+Probability of DD <    18068 is 0.838
+Probability of DD <    19366 is 0.838
+Probability of DD <    20665 is 0.838
+Probability of DD <    21965 is 0.838
+Probability of DD <    23266 is 0.838
+Probability of DD <    24568 is 0.838
+Probability of DD <    25871 is 1.000

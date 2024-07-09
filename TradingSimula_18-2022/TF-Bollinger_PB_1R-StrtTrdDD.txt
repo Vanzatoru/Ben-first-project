@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TF-Bollinger_PB_1R : Max. ClsTrd Draw Down     103962
+-----------------------------------------
+Probability of DD <     5198 is 0.024
+Probability of DD <    10396 is 0.024
+Probability of DD <    15595 is 0.033
+Probability of DD <    20795 is 0.036
+Probability of DD <    25996 is 0.039
+Probability of DD <    31198 is 0.042
+Probability of DD <    36401 is 0.254
+Probability of DD <    41606 is 0.266
+Probability of DD <    46811 is 0.272
+Probability of DD <    52017 is 0.275
+Probability of DD <    57224 is 0.376
+Probability of DD <    62432 is 0.379
+Probability of DD <    67641 is 0.388
+Probability of DD <    72851 is 0.391
+Probability of DD <    78063 is 0.397
+Probability of DD <    83275 is 0.460
+Probability of DD <    88488 is 0.463
+Probability of DD <    93702 is 0.800
+Probability of DD <    98917 is 0.800
+Probability of DD <   104133 is 1.000

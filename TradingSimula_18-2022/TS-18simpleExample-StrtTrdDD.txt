@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TS-18simpleExample : Max. ClsTrd Draw Down      91405
+-----------------------------------------
+Probability of DD <     4570 is 0.008
+Probability of DD <     9140 is 0.010
+Probability of DD <    13711 is 0.038
+Probability of DD <    18284 is 0.039
+Probability of DD <    22857 is 0.044
+Probability of DD <    27431 is 0.049
+Probability of DD <    32006 is 0.051
+Probability of DD <    36583 is 0.052
+Probability of DD <    41160 is 0.054
+Probability of DD <    45738 is 0.055
+Probability of DD <    50318 is 0.358
+Probability of DD <    54898 is 0.360
+Probability of DD <    59479 is 0.394
+Probability of DD <    64061 is 0.395
+Probability of DD <    68645 is 0.487
+Probability of DD <    73229 is 0.512
+Probability of DD <    77814 is 0.513
+Probability of DD <    82401 is 0.515
+Probability of DD <    86988 is 0.516
+Probability of DD <    91576 is 1.000

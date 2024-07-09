@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TF-BollOnOpen_1R : Max. ClsTrd Draw Down     128311
+-----------------------------------------
+Probability of DD <     6415 is 0.026
+Probability of DD <    12831 is 0.035
+Probability of DD <    19247 is 0.043
+Probability of DD <    25665 is 0.209
+Probability of DD <    32083 is 0.217
+Probability of DD <    38503 is 0.235
+Probability of DD <    44923 is 0.243
+Probability of DD <    51345 is 0.252
+Probability of DD <    57767 is 0.330
+Probability of DD <    64191 is 0.417
+Probability of DD <    70616 is 0.435
+Probability of DD <    77041 is 0.443
+Probability of DD <    83468 is 0.470
+Probability of DD <    89895 is 0.948
+Probability of DD <    96324 is 0.957
+Probability of DD <   102753 is 0.965
+Probability of DD <   109184 is 0.974
+Probability of DD <   115615 is 0.983
+Probability of DD <   122048 is 0.991
+Probability of DD <   128482 is 1.000

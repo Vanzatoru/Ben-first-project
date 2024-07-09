@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : Boll-10KLimitOTE_1R : Max. ClsTrd Draw Down     106896
+-----------------------------------------
+Probability of DD <     5344 is 0.034
+Probability of DD <    10689 is 0.034
+Probability of DD <    16035 is 0.036
+Probability of DD <    21382 is 0.044
+Probability of DD <    26730 is 0.046
+Probability of DD <    32078 is 0.075
+Probability of DD <    37428 is 0.075
+Probability of DD <    42779 is 0.085
+Probability of DD <    48131 is 0.423
+Probability of DD <    53484 is 0.428
+Probability of DD <    58837 is 0.438
+Probability of DD <    64192 is 0.482
+Probability of DD <    69548 is 0.487
+Probability of DD <    74905 is 0.774
+Probability of DD <    80263 is 0.783
+Probability of DD <    85622 is 0.788
+Probability of DD <    90981 is 0.866
+Probability of DD <    96342 is 0.866
+Probability of DD <   101704 is 0.869
+Probability of DD <   107067 is 1.000

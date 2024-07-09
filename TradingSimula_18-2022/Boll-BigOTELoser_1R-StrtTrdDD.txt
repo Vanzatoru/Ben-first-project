@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : Boll-BigOTELoser_1R : Max. ClsTrd Draw Down      12362
+-----------------------------------------
+Probability of DD <      618 is 0.031
+Probability of DD <     1236 is 0.406
+Probability of DD <     1855 is 0.406
+Probability of DD <     2475 is 0.469
+Probability of DD <     3096 is 0.500
+Probability of DD <     3718 is 0.594
+Probability of DD <     4341 is 0.625
+Probability of DD <     4966 is 0.656
+Probability of DD <     5591 is 0.656
+Probability of DD <     6217 is 0.719
+Probability of DD <     6844 is 0.719
+Probability of DD <     7472 is 0.719
+Probability of DD <     8101 is 0.719
+Probability of DD <     8731 is 0.750
+Probability of DD <     9362 is 0.781
+Probability of DD <     9995 is 0.812
+Probability of DD <    10628 is 0.812
+Probability of DD <    11262 is 0.812
+Probability of DD <    11897 is 0.812
+Probability of DD <    12533 is 1.000

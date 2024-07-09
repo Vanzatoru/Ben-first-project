@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TF-ADX-SELECT_1R : Max. ClsTrd Draw Down     175818
+-----------------------------------------
+Probability of DD <     8790 is 0.036
+Probability of DD <    17581 is 0.046
+Probability of DD <    26373 is 0.067
+Probability of DD <    35166 is 0.392
+Probability of DD <    43960 is 0.428
+Probability of DD <    52755 is 0.469
+Probability of DD <    61551 is 0.856
+Probability of DD <    70348 is 0.861
+Probability of DD <    79146 is 0.861
+Probability of DD <    87945 is 0.861
+Probability of DD <    96745 is 0.866
+Probability of DD <   105545 is 0.866
+Probability of DD <   114347 is 0.866
+Probability of DD <   123150 is 0.866
+Probability of DD <   131954 is 0.876
+Probability of DD <   140759 is 0.887
+Probability of DD <   149565 is 0.897
+Probability of DD <   158372 is 0.907
+Probability of DD <   167180 is 0.912
+Probability of DD <   175989 is 1.000

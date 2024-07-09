@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TFBoll-ATRNORM_1R : Max. ClsTrd Draw Down     135635
+-----------------------------------------
+Probability of DD <     6781 is 0.014
+Probability of DD <    13563 is 0.038
+Probability of DD <    20346 is 0.038
+Probability of DD <    27130 is 0.041
+Probability of DD <    33914 is 0.041
+Probability of DD <    40700 is 0.043
+Probability of DD <    47487 is 0.050
+Probability of DD <    54275 is 0.053
+Probability of DD <    61063 is 0.139
+Probability of DD <    67853 is 0.139
+Probability of DD <    74644 is 0.142
+Probability of DD <    81436 is 0.147
+Probability of DD <    88229 is 0.445
+Probability of DD <    95022 is 0.450
+Probability of DD <   101817 is 0.885
+Probability of DD <   108613 is 0.887
+Probability of DD <   115410 is 0.887
+Probability of DD <   122207 is 0.894
+Probability of DD <   129006 is 0.894
+Probability of DD <   135806 is 1.000

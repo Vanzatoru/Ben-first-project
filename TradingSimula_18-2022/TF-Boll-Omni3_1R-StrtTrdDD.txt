@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TF-Boll-Omni3_1R : Max. ClsTrd Draw Down     144482
+-----------------------------------------
+Probability of DD <     9086 is 0.033
+Probability of DD <    16212 is 0.041
+Probability of DD <    23339 is 0.059
+Probability of DD <    30467 is 0.063
+Probability of DD <    37596 is 0.067
+Probability of DD <    44726 is 0.067
+Probability of DD <    51858 is 0.115
+Probability of DD <    58990 is 0.115
+Probability of DD <    66123 is 0.123
+Probability of DD <    73257 is 0.312
+Probability of DD <    80392 is 0.316
+Probability of DD <    87528 is 0.424
+Probability of DD <    94665 is 0.428
+Probability of DD <   101804 is 0.431
+Probability of DD <   108943 is 0.442
+Probability of DD <   116083 is 0.446
+Probability of DD <   123224 is 0.450
+Probability of DD <   130366 is 0.513
+Probability of DD <   137509 is 0.591
+Probability of DD <   144653 is 1.000

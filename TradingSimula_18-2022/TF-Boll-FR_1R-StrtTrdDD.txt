@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of :   TF-Boll-FR_1R : Max. ClsTrd Draw Down     145948
+-----------------------------------------
+Probability of DD <     7758 is 0.027
+Probability of DD <    15031 is 0.033
+Probability of DD <    22305 is 0.038
+Probability of DD <    29580 is 0.063
+Probability of DD <    36856 is 0.065
+Probability of DD <    44133 is 0.068
+Probability of DD <    51412 is 0.117
+Probability of DD <    58691 is 0.123
+Probability of DD <    65971 is 0.262
+Probability of DD <    73252 is 0.264
+Probability of DD <    80534 is 0.417
+Probability of DD <    87817 is 0.422
+Probability of DD <    95102 is 0.425
+Probability of DD <   102387 is 0.431
+Probability of DD <   109673 is 0.436
+Probability of DD <   116960 is 0.471
+Probability of DD <   124248 is 0.477
+Probability of DD <   131537 is 0.485
+Probability of DD <   138828 is 0.488
+Probability of DD <   146119 is 1.000

@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TF-Boll-Notional : Max. ClsTrd Draw Down      44212
+-----------------------------------------
+Probability of DD <     2210 is 0.026
+Probability of DD <     4421 is 0.043
+Probability of DD <     6632 is 0.043
+Probability of DD <     8845 is 0.096
+Probability of DD <    11059 is 0.096
+Probability of DD <    13273 is 0.165
+Probability of DD <    15489 is 0.357
+Probability of DD <    17706 is 0.365
+Probability of DD <    19923 is 0.383
+Probability of DD <    22142 is 0.391
+Probability of DD <    24361 is 0.400
+Probability of DD <    26582 is 0.409
+Probability of DD <    28804 is 0.530
+Probability of DD <    31026 is 0.539
+Probability of DD <    33250 is 0.548
+Probability of DD <    35475 is 0.557
+Probability of DD <    37700 is 0.565
+Probability of DD <    39927 is 0.574
+Probability of DD <    42154 is 0.583
+Probability of DD <    44383 is 1.000

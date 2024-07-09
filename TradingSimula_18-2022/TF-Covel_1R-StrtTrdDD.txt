@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of :     TF-Covel_1R : Max. ClsTrd Draw Down      82449
+-----------------------------------------
+Probability of DD <     4122 is 0.013
+Probability of DD <     8244 is 0.033
+Probability of DD <    12368 is 0.038
+Probability of DD <    16492 is 0.051
+Probability of DD <    20618 is 0.054
+Probability of DD <    24744 is 0.059
+Probability of DD <    28872 is 0.059
+Probability of DD <    33000 is 0.067
+Probability of DD <    37130 is 0.067
+Probability of DD <    41260 is 0.077
+Probability of DD <    45392 is 0.195
+Probability of DD <    49524 is 0.690
+Probability of DD <    53658 is 0.692
+Probability of DD <    57792 is 0.692
+Probability of DD <    61927 is 0.713
+Probability of DD <    66064 is 0.715
+Probability of DD <    70201 is 0.859
+Probability of DD <    74340 is 0.859
+Probability of DD <    78479 is 0.859
+Probability of DD <    82620 is 1.000

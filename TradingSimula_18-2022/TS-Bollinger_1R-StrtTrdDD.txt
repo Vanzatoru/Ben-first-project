@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TS-Bollinger_1R : Max. ClsTrd Draw Down     113665
+-----------------------------------------
+Probability of DD <     5683 is 0.036
+Probability of DD <    11366 is 0.036
+Probability of DD <    17050 is 0.039
+Probability of DD <    22736 is 0.041
+Probability of DD <    28422 is 0.051
+Probability of DD <    34109 is 0.113
+Probability of DD <    39797 is 0.116
+Probability of DD <    45487 is 0.116
+Probability of DD <    51177 is 0.116
+Probability of DD <    56868 is 0.419
+Probability of DD <    62560 is 0.424
+Probability of DD <    68254 is 0.443
+Probability of DD <    73948 is 0.451
+Probability of DD <    79643 is 0.460
+Probability of DD <    85340 is 0.465
+Probability of DD <    91037 is 0.482
+Probability of DD <    96735 is 0.545
+Probability of DD <   102434 is 0.547
+Probability of DD <   108135 is 0.554
+Probability of DD <   113836 is 1.000

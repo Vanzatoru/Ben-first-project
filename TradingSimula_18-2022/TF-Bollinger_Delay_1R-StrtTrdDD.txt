@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : TF-Bollinger_Delay_1R : Max. ClsTrd Draw Down     127273
+-----------------------------------------
+Probability of DD <     6363 is 0.028
+Probability of DD <    12727 is 0.028
+Probability of DD <    19091 is 0.028
+Probability of DD <    25457 is 0.068
+Probability of DD <    31824 is 0.133
+Probability of DD <    38191 is 0.157
+Probability of DD <    44560 is 0.161
+Probability of DD <    50930 is 0.169
+Probability of DD <    57300 is 0.185
+Probability of DD <    63672 is 0.410
+Probability of DD <    70045 is 0.426
+Probability of DD <    76418 is 0.430
+Probability of DD <    82793 is 0.438
+Probability of DD <    89169 is 0.462
+Probability of DD <    95545 is 0.470
+Probability of DD <   101923 is 0.486
+Probability of DD <   108302 is 0.494
+Probability of DD <   114681 is 0.498
+Probability of DD <   121062 is 0.522
+Probability of DD <   127444 is 1.000

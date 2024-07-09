@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : Donch-MAX2NSect-Debug : Max. ClsTrd Draw Down      30131
+-----------------------------------------
+Probability of DD <     1506 is 0.031
+Probability of DD <     3013 is 0.031
+Probability of DD <     4520 is 0.031
+Probability of DD <     6029 is 0.038
+Probability of DD <     7538 is 0.038
+Probability of DD <     9049 is 0.038
+Probability of DD <    10560 is 0.169
+Probability of DD <    12073 is 0.177
+Probability of DD <    13587 is 0.185
+Probability of DD <    15101 is 0.192
+Probability of DD <    16617 is 0.200
+Probability of DD <    18133 is 0.408
+Probability of DD <    19651 is 0.438
+Probability of DD <    21169 is 0.446
+Probability of DD <    22689 is 0.785
+Probability of DD <    24210 is 0.792
+Probability of DD <    25731 is 0.792
+Probability of DD <    27254 is 0.792
+Probability of DD <    28777 is 0.792
+Probability of DD <    30302 is 1.000

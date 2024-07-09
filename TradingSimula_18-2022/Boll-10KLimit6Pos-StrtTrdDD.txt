@@ -1,0 +1,22 @@
+Start Trade Drawdown Analysis Of : Boll-10KLimit6Pos : Max. ClsTrd Draw Down     158177
+-----------------------------------------
+Probability of DD <     9770 is 0.031
+Probability of DD <    17581 is 0.034
+Probability of DD <    25393 is 0.046
+Probability of DD <    33206 is 0.049
+Probability of DD <    41020 is 0.154
+Probability of DD <    48835 is 0.154
+Probability of DD <    56651 is 0.194
+Probability of DD <    64467 is 0.277
+Probability of DD <    72285 is 0.391
+Probability of DD <    80104 is 0.414
+Probability of DD <    87924 is 0.417
+Probability of DD <    95745 is 0.426
+Probability of DD <   103567 is 0.431
+Probability of DD <   111390 is 0.451
+Probability of DD <   119214 is 0.457
+Probability of DD <   127038 is 0.480
+Probability of DD <   134864 is 0.483
+Probability of DD <   142691 is 0.554
+Probability of DD <   150519 is 0.566
+Probability of DD <   158348 is 1.000
