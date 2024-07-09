@@ -16,16 +16,20 @@
 import tkinter as tk
 from tkinter import ttk
 from subprocess import call
+
+import fillTable
 from reporting import *
 from PIL import Image, ImageTk
 import pandas as pd
 
 # Here are fucntions for GUIs (all functions are at the top)
 
+treefile_global= "File"
+
 # MAIN WINDOW
 root = tk.Tk()
 root.geometry("1415x800+140+100")
-root.iconbitmap(r"C:\Users\neb\Desktop\TradingSimula_18-2022\Portfolio Project\Assets\chart_line.ico")
+root.iconbitmap("chart_line.ico")
 
 
 # Strategy List
@@ -109,7 +113,7 @@ def checkfun():
 
     # Making new window and congfiguring it
     plotwin = tk.Toplevel(master=root, )
-    plotwin.iconbitmap(r"C:\Users\neb\Desktop\TradingSimula_18-2022\Portfolio Project\Assets\chart_line.ico")
+    plotwin.iconbitmap("chart_line.ico")
     plotwin.lift(root)
     plotwin.geometry('1000x800+140+100')
     plotwin.resizable(False, True)
@@ -135,152 +139,200 @@ def checkfun():
     #treefile = 'TF-LinReg_1R-PosMatrix.txt'
     #t1()
 
+
 # Function that controls what strategy gets ran
 def selecstrat():
     if stratlist.get(stratlist.curselection()) == " TF-Covel":
         call(["python", "TF-Covel_1R.py"])
         qsreport('TF-Covel_1R-PosMatrix.txt')
         treefile = "TF-Covel_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-Keltner":
         call(["python", "TF-Keltner_1R.py"])
         qsreport('TF-Keltner_1R-PosMatrix.txt')
         treefile = "TF-Keltner_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-LinReg":
         call(["python", "TF-LinReg_1R.py"])
         qsreport('TF-LinReg_1R-PosMatrix.txt')
         treefile = "TF-LinReg_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-SwingBO":
         call(["python", "TF-SwingBO_1R.py"])
         qsreport('TF-SwingBO_1R-PosMatrix.txt')
         treefile = "TF-SwingBO_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-System #1":
         call(["python", "TF-System#1_1R.py"])
         qsreport('TF-System#1_1R-PosMatrix.txt')
         treefile = "TF-System#1_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-System #2":
         call(["python", "TF-System#2_1R.py"])
         qsreport('TF-System#2_1R-PosMatrix.txt')
         treefile = "TF-System#2_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-System #3":
         call(["python", "TF-System#3_1R.py"])
         qsreport('TF-System#3_1R-PosMatrix.txt')
         treefile = "TF-System#3_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-System #4":
         call(["python", "TF-System#4_1R.py"])
         qsreport('TF-System#4_1R-PosMatrix.txt')
         treefile = "TF-System#4_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-System #5":
         call(["python", "TF-System#5_1R.py"])
         qsreport('TF-System#5_1R-PosMatrix.txt')
         treefile = "TF-System#5_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-System #6":
         call(["python", "TF-System#6_1R.py"])
         qsreport('TF-System#6_1R-PosMatrix.txt')
         treefile = "TF-System#6_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-System #7":
         call(["python", "TF-System#7_1R.py"])
         qsreport('TF-System#7-PosMatrix.txt')
         treefile = "TF-System#7-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-TMA":
         call(["python", "TF-TMA_1R.py"])
         qsreport('TF-TMA_1R-PosMatrix.txt')
         treefile = "TF-TMA_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-TurtleSystem2":
         call(["python", "PythonTurtleSystem_1R_ver2.py"])
         qsreport('PythonTurt_1R_ver2-PosMatrix.txt')
+        treefile="PythonTurt_1R_ver2-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
  
 
     if stratlist.get(stratlist.curselection()) == " TF-ADX-Individ":
         call(["python", "TF-ADX-Individ_1R.py"])
         qsreport('TF-ADX-INDIV_1R-PosMatrix.txt')
+        treefile="TF-ADX-INDIV_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-Bollinger":
         call(["python", "TF-Bollinger_1R.py"])
         qsreport('TF-Bollinger_1R-PosMatrix.txt')
+        treefile="TF-Bollinger_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
+
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerATRNorm":
         call(["python", "TF-BollingerATRNorm_1R.py"])
         qsreport('TF-Boll-ATRNORM_1R-PosMatrix.txt')
+        treefile = "TF-Boll-ATRNORM_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerDonch":
         call(["python", "TF-BollingerDonch_1R.py"])
         qsreport('TF-Boll.Donch_1R-PosMatrix.txt')
+        treefile = "TF-Boll.Donch_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerNOTNorm":
         call(["python", "TF-BollingerNOTNorm_1R.py"])
         qsreport('TF-Boll-Notional-PosMatrix.txt')
+        treefile = "TF-Boll-Notional-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerOmni1":
         call(["python", "TF-BollingerOmni_1R.py"])
         qsreport('TF-Boll-Omni_1R-PosMatrix.txt')
+        treefile = "TF-Boll-Omni_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerOmni2":
         call(["python", "TF-BollingerOmni2_1R.py"])
         qsreport('TF-Boll-Omni2_1R-PosMatrix.txt')
+        treefile = "TF-Boll-Omni2_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerOmni4":
         call(["python", "TF-BollingerOmni4_1R.py"])
         qsreport('TF-Boll-Omni4_1R-PosMatrix.txt')
+        treefile = "TF-Boll-Omni4_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerOnClose":
         call(["python", "TF-BollingerOnClose_1R.py"])
         qsreport('TF-BollOnClose_1R-PosMatrix.txt')
+        treefile = "TF-BollOnClose_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerOnOpen":
         call(["python", "TF-BollingerOnOpen_1R.py"])
         qsreport('TF-BollOnOpen_1R-PosMatrix.txt')
+        treefile = "TF-BollOnOpen_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerORBO":
         call(["python", "TF-BollingerORBO_1R.py"])
         qsreport('TF-BollwBO-PosMatrix.txt')
+        treefile = "TF-BollwBO-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerParadigm":
         call(["python", "TF-BollingerParadigm_1R.py"])
         qsreport('TF-BollPdigm-PosMatrix.txt')
+        treefile = "TF-BollPdigm-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerPB":
         call(["python", "TF-BollingerPB_1R.py"])
         qsreport('TF-Bollinger_PB_1R-PosMatrix.txt')
+        treefile = "TF-Bollinger_PB_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerRiskFilter1":
         call(["python", "TF-BollingerRiskFilter_1R.py"])
         qsreport('TF-Boll-RiskFilt_1R-PosMatrix.txt')
+        treefile = "TF-Boll-RiskFilt_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
     if stratlist.get(stratlist.curselection()) == " TF-BollingerRiskFilter2":
         call(["python", "TF-BollingerRiskFilter2_1R.py"])
         qsreport('TF-Boll-RiskFilt2_1R-PosMatrix.txt')
+        treefile = "TF-Boll-RiskFilt2_1R-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
     
     if stratlist.get(stratlist.curselection()) == " TF-BollingerTM":
         call(["python", "TF-BollingerTM_1R.py"])
         qsreport('TF-Boll-TM-PosMatrix.txt')
+        treefile = "TF-Boll-TM-PosMatrix.txt"
+        fillTable.filltable(treefile, tree, tree2)
 
 
 
@@ -596,8 +648,6 @@ tree.heading("Date of Trade", text="Date of Trade", anchor=tk.CENTER)
 
     # Insert data
 
-tree.insert("", tk.END, text="one", values=("John Doe", 30, "Male"), iid="1")
-tree.insert("", tk.END, text="2", values=("Jane Smith", 25, "Female"), iid="2")
 
 
     # Pack the treeview widget
@@ -626,9 +676,7 @@ tree2.heading("Symbol", text="Symbol", anchor=tk.W)
 tree2.heading("Trade Size", text="Trade Size", anchor=tk.CENTER)
 
     # Insert data
-for i in range(15):
-    tree2.insert("", tk.END, text="1", values=("John Doe", 30))
-    tree2.insert("", tk.END, text="2", values=("Jane Smith", 25))
+
 
 
     # Pack the treeview widget
