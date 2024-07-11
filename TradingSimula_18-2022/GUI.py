@@ -632,26 +632,36 @@ soft.place(anchor="nw", x = 350, y = 620)
 tree = ttk.Treeview(root)
 
     # Define columns
-tree["columns"] = ("Symbol", "Pos-Size", "Date of Trade")
+tree["columns"] = ("Symbol", "Pos-Size", "Date of Trade","Current price","Price when bought","PNL")
 
     # Format columns
 tree.column("#0", width=0, stretch=tk.NO)  # Hidden column
 tree.column("Symbol", anchor=tk.W, width=200)
 tree.column("Pos-Size", anchor=tk.CENTER, width=75)
 tree.column("Date of Trade", anchor=tk.CENTER, width=150)
+tree.column("Current price", anchor=tk.CENTER, width=150)
+tree.column("Price when bought", anchor=tk.CENTER, width=150)
+tree.column("PNL", anchor=tk.CENTER, width=75)
 
     # Create headings
 tree.heading("#0", text="", anchor=tk.W)
 tree.heading("Symbol", text="Symbol", anchor=tk.W)
 tree.heading("Pos-Size", text="Pos-Size", anchor=tk.CENTER)
 tree.heading("Date of Trade", text="Date of Trade", anchor=tk.CENTER)
+tree.heading("Current price", text="Current price", anchor=tk.CENTER)
+tree.heading("Price when bought", text="Price when bought", anchor=tk.CENTER)
+tree.heading("PNL", text="PNL", anchor=tk.CENTER)
+
+
+
+
 
     # Insert data
 
 
 
     # Pack the treeview widget
-tree.place(anchor="nw", x=490, y=40, height=200, width=460)
+tree.place(anchor="nw", x=490, y=40, height=200, width=850)
 
 
 
@@ -680,7 +690,7 @@ tree2.heading("Trade Size", text="Trade Size", anchor=tk.CENTER)
 
 
     # Pack the treeview widget
-tree2.place(anchor="nw", x=965, y=40, height=120, width=400)
+tree2.place(anchor="nw", x=490, y=300, height=120, width=400)
 
 
 

@@ -1,22 +1,22 @@
-Start Trade Drawdown Analysis Of :   TF-SwingBO_1R : Max. ClsTrd Draw Down      18035
+Start Trade Drawdown Analysis Of :   TF-SwingBO_1R : Max. ClsTrd Draw Down      31943
 -----------------------------------------
-Probability of DD <      901 is 0.025
-Probability of DD <     1803 is 0.025
-Probability of DD <     2706 is 0.050
-Probability of DD <     3610 is 0.050
-Probability of DD <     4514 is 0.050
-Probability of DD <     5420 is 0.075
-Probability of DD <     6327 is 0.075
-Probability of DD <     7235 is 0.075
-Probability of DD <     8143 is 0.100
-Probability of DD <     9053 is 0.100
-Probability of DD <     9964 is 0.100
-Probability of DD <    10876 is 0.150
-Probability of DD <    11788 is 0.150
-Probability of DD <    12702 is 0.150
-Probability of DD <    13617 is 0.150
-Probability of DD <    14533 is 0.150
-Probability of DD <    15449 is 0.175
-Probability of DD <    16367 is 0.175
-Probability of DD <    17286 is 0.175
-Probability of DD <    18206 is 1.000
+Probability of DD <     1597 is 0.033
+Probability of DD <     3194 is 0.067
+Probability of DD <     4792 is 0.100
+Probability of DD <     6391 is 0.133
+Probability of DD <     7991 is 0.167
+Probability of DD <     9593 is 0.167
+Probability of DD <    11195 is 0.233
+Probability of DD <    12798 is 0.267
+Probability of DD <    14402 is 0.267
+Probability of DD <    16007 is 0.300
+Probability of DD <    17614 is 0.333
+Probability of DD <    19221 is 0.333
+Probability of DD <    20829 is 0.367
+Probability of DD <    22438 is 0.400
+Probability of DD <    24048 is 0.400
+Probability of DD <    25660 is 0.400
+Probability of DD <    27272 is 0.433
+Probability of DD <    28885 is 0.467
+Probability of DD <    30499 is 0.467
+Probability of DD <    32114 is 1.000
