@@ -2,6 +2,8 @@ import tkinter as tk
 
 
 def filltable(file, tree, tree2):
+    clear_treeview(tree)
+    clear_treeview(tree2)
     first_line, last_line, second_last_line = get_lines_as_arrays(file)
     # print(second_last_line)
     # print(last_line)
@@ -90,3 +92,7 @@ def get_data_when_bought(file_path, index):
 
         return None
 
+
+def clear_treeview(tree):
+    for row in tree.get_children():
+        tree.delete(row)

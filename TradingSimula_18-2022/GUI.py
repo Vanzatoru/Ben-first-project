@@ -101,6 +101,7 @@ file_path = "MainFile.por"
 
 # Checkboxes, List, and other processes
 def checkfun():
+
     with open(file_path, "w") as f:
         newlistofx = []
         listofx = [x.get(),x2.get(),x3.get(),x4.get(),x5.get(),x6.get(),x7.get(),x8.get(),x9.get(),x10.get(),x11.get(),x12.get(),x13.get(),x14.get(),x15.get(),x16.get(),x17.get(),x18.get(),x19.get(),x20.get(),x21.get()]
