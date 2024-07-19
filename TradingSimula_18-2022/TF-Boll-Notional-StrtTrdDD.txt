@@ -1,22 +1,22 @@
-Start Trade Drawdown Analysis Of : TF-Boll-Notional : Max. ClsTrd Draw Down      44212
+Start Trade Drawdown Analysis Of : TF-Boll-Notional : Max. ClsTrd Draw Down   65308795
 -----------------------------------------
-Probability of DD <     2210 is 0.026
-Probability of DD <     4421 is 0.043
-Probability of DD <     6632 is 0.043
-Probability of DD <     8845 is 0.096
-Probability of DD <    11059 is 0.096
-Probability of DD <    13273 is 0.165
-Probability of DD <    15489 is 0.357
-Probability of DD <    17706 is 0.365
-Probability of DD <    19923 is 0.383
-Probability of DD <    22142 is 0.391
-Probability of DD <    24361 is 0.400
-Probability of DD <    26582 is 0.409
-Probability of DD <    28804 is 0.530
-Probability of DD <    31026 is 0.539
-Probability of DD <    33250 is 0.548
-Probability of DD <    35475 is 0.557
-Probability of DD <    37700 is 0.565
-Probability of DD <    39927 is 0.574
-Probability of DD <    42154 is 0.583
-Probability of DD <    44383 is 1.000
+Probability of DD <  3265439 is 0.009
+Probability of DD <  6530879 is 0.014
+Probability of DD <  9796320 is 0.034
+Probability of DD < 13061762 is 0.044
+Probability of DD < 16327204 is 0.054
+Probability of DD < 19592648 is 0.074
+Probability of DD < 22858093 is 0.087
+Probability of DD < 26123539 is 0.331
+Probability of DD < 29388986 is 0.350
+Probability of DD < 32654433 is 0.361
+Probability of DD < 35919882 is 0.386
+Probability of DD < 39185332 is 0.393
+Probability of DD < 42450783 is 0.402
+Probability of DD < 45716234 is 0.541
+Probability of DD < 48981687 is 0.544
+Probability of DD < 52247141 is 0.556
+Probability of DD < 55512596 is 0.558
+Probability of DD < 58778052 is 0.560
+Probability of DD < 62043508 is 0.563
+Probability of DD < 65308966 is 1.000

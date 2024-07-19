@@ -1,22 +1,22 @@
-Start Trade Drawdown Analysis Of :   TF-Keltner_1R : Max. ClsTrd Draw Down    1154445
+Start Trade Drawdown Analysis Of :   TF-Keltner_1R : Max. ClsTrd Draw Down      38331
 -----------------------------------------
-Probability of DD <    94791 is 0.006
-Probability of DD <   150562 is 0.006
-Probability of DD <   206334 is 0.006
-Probability of DD <   262108 is 0.007
-Probability of DD <   317882 is 0.011
-Probability of DD <   373657 is 0.011
-Probability of DD <   429433 is 0.011
-Probability of DD <   485211 is 0.033
-Probability of DD <   540989 is 0.039
-Probability of DD <   596768 is 0.040
-Probability of DD <   652548 is 0.043
-Probability of DD <   708330 is 0.043
-Probability of DD <   764112 is 0.048
-Probability of DD <   819895 is 0.061
-Probability of DD <   875679 is 0.063
-Probability of DD <   931465 is 0.069
-Probability of DD <   987251 is 0.072
-Probability of DD <  1043038 is 0.077
-Probability of DD <  1098826 is 0.083
-Probability of DD <  1154616 is 1.000
+Probability of DD <     1916 is 0.014
+Probability of DD <     3833 is 0.020
+Probability of DD <     5750 is 0.048
+Probability of DD <     7669 is 0.054
+Probability of DD <     9588 is 0.068
+Probability of DD <    11509 is 0.068
+Probability of DD <    13430 is 0.218
+Probability of DD <    15353 is 0.238
+Probability of DD <    17277 is 0.245
+Probability of DD <    19201 is 0.252
+Probability of DD <    21127 is 0.252
+Probability of DD <    23053 is 0.265
+Probability of DD <    24981 is 0.272
+Probability of DD <    26909 is 0.395
+Probability of DD <    28839 is 0.401
+Probability of DD <    30770 is 0.401
+Probability of DD <    32701 is 0.408
+Probability of DD <    34634 is 0.415
+Probability of DD <    36567 is 0.415
+Probability of DD <    38502 is 1.000

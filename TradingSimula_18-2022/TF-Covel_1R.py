@@ -1,7 +1,7 @@
 #----------------------------------------------------------------------------------
 # Set up algo parameters here
 #----------------------------------------------------------------------------------
-startTestDate = 20100101 #must be in yyyymmdd
+startTestDate = 20000101 #must be in yyyymmdd
 stopTestDate  = 99999999 #must be in yyyymmdd
 rampUp = 200 # need this minimum of bars to calculate indicators
 sysName = 'TF-Covel_1R' #System Name here

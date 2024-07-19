@@ -4,9 +4,9 @@ import tkinter as tk
 def filltable(file, tree, tree2):
     clear_treeview(tree)
     clear_treeview(tree2)
-    first_line, last_line, second_last_line = get_lines_as_arrays(file)
-    # print(second_last_line)
-    # print(last_line)
+    first_line, second_last_line, last_line = get_lines_as_arrays(file)
+    print(second_last_line)
+    print(last_line)
     #date=f"{last_line[0][:4]}/{last_line[0][4:6]}/{last_line[0][6:]}"
     for i, item in enumerate(last_line[:-2]):
 # forcing a change from 0 to 1 to show that the table 2 works

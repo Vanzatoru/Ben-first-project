@@ -1,22 +1,22 @@
-Start Trade Drawdown Analysis Of : TF-Boll-Omni_1R : Max. ClsTrd Draw Down      56006
+Start Trade Drawdown Analysis Of : TF-Boll-Omni_1R : Max. ClsTrd Draw Down   14936767
 -----------------------------------------
-Probability of DD <     3103 is 0.077
-Probability of DD <     5887 is 0.154
-Probability of DD <     8672 is 0.162
-Probability of DD <    11459 is 0.171
-Probability of DD <    14246 is 0.179
-Probability of DD <    17034 is 0.197
-Probability of DD <    19824 is 0.205
-Probability of DD <    22614 is 0.274
-Probability of DD <    25406 is 0.291
-Probability of DD <    28198 is 0.308
-Probability of DD <    30991 is 0.325
-Probability of DD <    33786 is 0.581
-Probability of DD <    36581 is 0.590
-Probability of DD <    39377 is 0.598
-Probability of DD <    42175 is 0.598
-Probability of DD <    44973 is 0.607
-Probability of DD <    47773 is 0.624
-Probability of DD <    50573 is 0.624
-Probability of DD <    53374 is 0.632
-Probability of DD <    56177 is 1.000
+Probability of DD <   746838 is 0.032
+Probability of DD <  1493676 is 0.039
+Probability of DD <  2240516 is 0.043
+Probability of DD <  2987356 is 0.058
+Probability of DD <  3734197 is 0.058
+Probability of DD <  4481040 is 0.064
+Probability of DD <  5227883 is 0.064
+Probability of DD <  5974727 is 0.271
+Probability of DD <  6721573 is 0.294
+Probability of DD <  7468419 is 0.375
+Probability of DD <  8215266 is 0.427
+Probability of DD <  8962115 is 0.442
+Probability of DD <  9708964 is 0.446
+Probability of DD < 10455815 is 0.461
+Probability of DD < 11202666 is 0.535
+Probability of DD < 11949518 is 0.548
+Probability of DD < 12696372 is 0.548
+Probability of DD < 13443226 is 0.548
+Probability of DD < 14190081 is 0.548
+Probability of DD < 14936938 is 1.000

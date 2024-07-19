@@ -16,7 +16,7 @@
 import tkinter as tk
 from tkinter import ttk
 from subprocess import call
-
+from tsnorgupdater import *
 import fillTable
 from reporting import *
 from PIL import Image, ImageTk
@@ -80,10 +80,10 @@ line2 = tk.Label(root, text="—————————————————
 line2.place(anchor="nw", x=10, y=775)
 
 line3 = tk.Label(root, text="Current Positions", font='Calibri 13')
-line3.place(anchor="nw", x=665, y=15)
+line3.place(anchor="nw", x=850, y=15)
 
 line4 = tk.Label(root, text="Trades to be made", font='Calibri 13')
-line4.place(anchor="nw", x=1100, y=15)
+line4.place(anchor="nw", x=850, y=270)
 
 img1 = tk.Label(root, text="◉", font="Calibri 21",fg="#7ac722")
 img1.place(anchor="nw", x=1385, y=765)
@@ -101,6 +101,30 @@ file_path = "MainFile.por"
 
 # Checkboxes, List, and other processes
 def checkfun():
+
+    SendNorgData('&6E', 'EC.csv')
+    SendNorgData('&6J', 'JY.csv')
+    SendNorgData('&6B', 'BP.csv')
+    SendNorgData('&ZN', 'TY.csv')
+    SendNorgData('&ZF', 'FV.csv')
+    SendNorgData('&ZB', 'US.csv')
+    SendNorgData('&ES', 'ES.csv')
+    SendNorgData('&NQ', 'NQ.csv')
+    SendNorgData('&YM', 'EM.csv')
+    SendNorgData('&CL', 'CL.csv')
+    SendNorgData('&NG', 'NG.csv')
+    SendNorgData('&HO', 'HO.csv')
+    SendNorgData('&GC', 'GC.csv')
+    SendNorgData('&HG', 'HG.csv')
+    SendNorgData('&SI', 'SI.csv')
+    SendNorgData('&ZC', 'C_.csv')
+    SendNorgData('&ZL', 'S_.csv')
+    SendNorgData('&ZW', 'W_.csv')
+    SendNorgData('&SB', 'SB.csv')
+    SendNorgData('&KC', 'KC.csv')
+    SendNorgData('&CT', 'CT.csv')
+
+
 
     with open(file_path, "w") as f:
         newlistofx = []
@@ -120,15 +144,15 @@ def checkfun():
     plotwin.resizable(False, True)
 
     # Making canvas object and configuring it
-    plotcanvas = tk.Canvas(plotwin, bg="red", width=1000, height=800, scrollregion=(0,0,2000,3950))
-    plotcanvas.pack(expand=True, fill="both")
+    plotcanvas = tk.Canvas(plotwin, bg="white", width=700, height=1200, scrollregion=(0,-300,2000,4950))
+    plotcanvas.pack(expand=True, fill="x")
 
     #plotting QS report
     plotx = tk.PhotoImage(file= "out.png")
-    plotcanvas.create_image(500,1980,image=plotx)
+    plotcanvas.create_image(490,1980,image=plotx)
 
     # Mouswheel Scroll Stuff
-    plotcanvas.bind('<MouseWheel>', lambda event: plotcanvas.yview_scroll(int(-event.delta / 60), "units"))
+    plotcanvas.bind('<MouseWheel>', lambda event: plotcanvas.yview_scroll(int(-event.delta / 90), "units"))
 
     #scrollbar stuff & Further plotting
     scrollbar = ttk.Scrollbar(plotwin, orient="vertical", command=plotcanvas.yview)
@@ -205,8 +229,8 @@ def selecstrat():
 
     if stratlist.get(stratlist.curselection()) == " TF-System #7":
         call(["python", "TF-System#7_1R.py"])
-        qsreport('TF-System#7-PosMatrix.txt')
-        treefile = "TF-System#7-PosMatrix.txt"
+        qsreport('TF-System#7_1R-PosMatrix.txt')
+        treefile = "TF-System#7_1R-PosMatrix.txt"
         fillTable.filltable(treefile, tree, tree2)
 
     if stratlist.get(stratlist.curselection()) == " TF-TMA":
@@ -691,7 +715,7 @@ tree2.heading("Trade Size", text="Trade Size", anchor=tk.CENTER)
 
 
     # Pack the treeview widget
-tree2.place(anchor="nw", x=490, y=300, height=120, width=400)
+tree2.place(anchor="nw", x=700, y=300, height=180, width=400)
 
 
 
@@ -705,8 +729,8 @@ report = tk.Button(root, text="Show Report")
 report.place(anchor="nw", x=600, y=730)
 
 # BUTTONS HERE -------------------
-showtsi = tk.Button(root, text="Show TSI")
-showtsi.place(anchor="nw", x=720, y=730)
+#showtsi = tk.Button(root, text="Show TSI")
+##showtsi.place(anchor="nw", x=720, y=730)
 
 
 

@@ -5,7 +5,6 @@ from marketDataClass import marketDataClass
 from dataMasterLists import commName, commLongName, bigPtVal, minMove
 from tkinter.filedialog import askopenfilenames
 from equityDataClass import equityClass
-import CommodityFuturesData
 
 fileName = "dataMaster.csv"
 def parseDate(dateString):

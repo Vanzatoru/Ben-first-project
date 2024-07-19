@@ -1,22 +1,22 @@
-Start Trade Drawdown Analysis Of : TF-Bollinger_1R : Max. ClsTrd Draw Down    1340004
+Start Trade Drawdown Analysis Of : TF-Bollinger_1R : Max. ClsTrd Draw Down   12888809
 -----------------------------------------
-Probability of DD <   167301 is 0.019
-Probability of DD <   229022 is 0.021
-Probability of DD <   290744 is 0.025
-Probability of DD <   352467 is 0.028
-Probability of DD <   414192 is 0.028
-Probability of DD <   475917 is 0.030
-Probability of DD <   537643 is 0.030
-Probability of DD <   599370 is 0.030
-Probability of DD <   661098 is 0.030
-Probability of DD <   722828 is 0.042
-Probability of DD <   784558 is 0.051
-Probability of DD <   846289 is 0.051
-Probability of DD <   908021 is 0.051
-Probability of DD <   969755 is 0.053
-Probability of DD <  1031489 is 0.053
-Probability of DD <  1093224 is 0.069
-Probability of DD <  1154960 is 0.081
-Probability of DD <  1216697 is 0.081
-Probability of DD <  1278436 is 0.086
-Probability of DD <  1340175 is 1.000
+Probability of DD <   644440 is 0.030
+Probability of DD <  1288880 is 0.036
+Probability of DD <  1933322 is 0.040
+Probability of DD <  2577764 is 0.055
+Probability of DD <  3222208 is 0.055
+Probability of DD <  3866652 is 0.061
+Probability of DD <  4511098 is 0.061
+Probability of DD <  5155544 is 0.128
+Probability of DD <  5799992 is 0.152
+Probability of DD <  6444440 is 0.152
+Probability of DD <  7088890 is 0.152
+Probability of DD <  7733340 is 0.295
+Probability of DD <  8377792 is 0.356
+Probability of DD <  9022244 is 0.431
+Probability of DD <  9666698 is 0.442
+Probability of DD < 10311152 is 0.446
+Probability of DD < 10955608 is 0.455
+Probability of DD < 11600064 is 0.463
+Probability of DD < 12244522 is 0.463
+Probability of DD < 12888980 is 1.000

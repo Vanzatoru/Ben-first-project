@@ -1,22 +1,22 @@
-Start Trade Drawdown Analysis Of : PythonTurt_1R_ver2 : Max. ClsTrd Draw Down     112242
+Start Trade Drawdown Analysis Of : PythonTurt_1R_ver2 : Max. ClsTrd Draw Down   10538941
 -----------------------------------------
-Probability of DD <     5612 is 0.010
-Probability of DD <    11224 is 0.013
-Probability of DD <    16837 is 0.020
-Probability of DD <    22451 is 0.026
-Probability of DD <    28066 is 0.033
-Probability of DD <    33682 is 0.039
-Probability of DD <    39299 is 0.046
-Probability of DD <    44917 is 0.053
-Probability of DD <    50537 is 0.069
-Probability of DD <    56157 is 0.076
-Probability of DD <    61778 is 0.079
-Probability of DD <    67400 is 0.105
-Probability of DD <    73023 is 0.122
-Probability of DD <    78647 is 0.122
-Probability of DD <    84272 is 0.125
-Probability of DD <    89898 is 0.125
-Probability of DD <    95526 is 0.128
-Probability of DD <   101154 is 0.132
-Probability of DD <   106783 is 0.135
-Probability of DD <   112413 is 1.000
+Probability of DD <   526947 is 0.001
+Probability of DD <  1053894 is 0.004
+Probability of DD <  1580842 is 0.023
+Probability of DD <  2107791 is 0.030
+Probability of DD <  2634741 is 0.033
+Probability of DD <  3161692 is 0.038
+Probability of DD <  3688644 is 0.040
+Probability of DD <  4215597 is 0.041
+Probability of DD <  4742551 is 0.045
+Probability of DD <  5269506 is 0.057
+Probability of DD <  5796462 is 0.080
+Probability of DD <  6323419 is 0.080
+Probability of DD <  6850377 is 0.111
+Probability of DD <  7377336 is 0.113
+Probability of DD <  7904296 is 0.121
+Probability of DD <  8431257 is 0.128
+Probability of DD <  8958219 is 0.147
+Probability of DD <  9485182 is 0.147
+Probability of DD < 10012147 is 0.151
+Probability of DD < 10539112 is 1.000
